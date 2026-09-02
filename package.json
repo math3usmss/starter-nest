@@ -5,6 +5,7 @@
   "author": "",
   "private": true,
   "license": "UNLICENSED",
+  "packageManager": "pnpm@11.0.8",
   "scripts": {
     "build": "nest build",
     "deploy": "nest deploy",
