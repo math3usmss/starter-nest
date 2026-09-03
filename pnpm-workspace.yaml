@@ -1,6 +1,8 @@
 allowBuilds:
   '@parcel/watcher': true
   '@prisma/engines': true
+  '@scarf/scarf': true
+  bcrypt: true
   esbuild: set this to true or false
   msgpackr-extract: set this to true or false
   prisma: true
