@@ -59,6 +59,9 @@ pnpm format
 PROJECT_NAME=
 DATABASE_URL=
 PORT=
+POSTGRES_USER=
+POSTGRES_PASSWORD=
+POSTGRES_DB=
 ```
 
 ## Estrutura do projeto
